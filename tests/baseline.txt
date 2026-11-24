@@ -1,0 +1,2 @@
+Inert test fixture. No executable code or workflows.
+Expected pilot baseline: src/pilot.txt exists.
